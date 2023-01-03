@@ -4,7 +4,7 @@ Contains all the different categories along with their url. These url were used 
 ### url.csv
 First excel sheet of flipkart_categories.xlsx. Used by flipkart_scrapper.ipynb to navigate to different pages.
 ### Flipkart_scrapper.ipynb
-Code used to generate the poc.csv and complete dataset for flipkart product description.
+Code used to generate the poc.csv and complete dataset for flipkart product description. \
 Link for complete dataset - [TBD]()
 ### preprocess_model.ipynb
 Code regarding preprocessing the data, making it model ready, training and fine tuning the model.
