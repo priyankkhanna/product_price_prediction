@@ -9,7 +9,7 @@ Complete flipkart dataset generated using 1st page of each categories. Size can 
 Used by flipkart_scrapper.ipynb to navigate to different pages and generate poc.csv dataset.
 ### Flipkart_scrapper.ipynb
 Code used to generate the poc.csv and complete dataset for flipkart product description. \
-Link for complete dataset - [Raw csv file](https://raw.githubusercontent.com/priyankkhanna/product_price_prediction/main/dataset.csv)
+Link for complete dataset - [Raw csv file](https://raw.githubusercontent.com/priyankkhanna/product_price_prediction/main/models/dataset.csv)
 ### preprocess_model.ipynb
 Code regarding preprocessing the data, making it model ready, training and fine tuning the model.
 ### poc.csv
