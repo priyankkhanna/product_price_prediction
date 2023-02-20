@@ -1,11 +1,11 @@
 # Product Price Prediction
 ### Runing web interface
 1) If you already have a python env you can open the env in terminal and run the following commands
-- pip install -r requirements.txt \
+- pip install -r requirements.txt
 - python models\model2.py
 
 2) You can also create a docker image to run it using - 
-- docker build -t exp:v1 -f docker/Dockerfile . \
+- docker build -t exp:v1 -f docker/Dockerfile .
 - docker run -it exp:v1
 
 ### flipkart_categories.xlsx
