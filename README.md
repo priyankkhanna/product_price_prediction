@@ -27,3 +27,5 @@ Proof of Concept dataset.
 Intermidiate data used by flipkart_scrapper.ipynb.
 ### int2.csv
 Intermidiate data used by flipkart_scrapper.ipynb.
+
+###models contains results, actual dataset and code for running the file
