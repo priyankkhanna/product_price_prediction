@@ -4,9 +4,9 @@
 - pip install -r requirements.txt
 - python models\model2.py
 
-2) You can also create a docker image to run it using - 
+2) You can also create a docker image to run it using -
 - docker build -t exp:v1 -f docker/Dockerfile .
-- docker run -it exp:v1
+- docker run -it --rm --add-host=host.docker.internal:host-gateway exp:v1
 
 ### flipkart_categories.xlsx
 Contains all the different categories along with their url. These url were used to scrape different products information present in them.
@@ -27,4 +27,3 @@ Proof of Concept dataset.
 Intermidiate data used by flipkart_scrapper.ipynb.
 ### int2.csv
 Intermidiate data used by flipkart_scrapper.ipynb.
-
