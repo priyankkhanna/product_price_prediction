@@ -1,4 +1,5 @@
 # Product Price Prediction
+##### (Project Explanation)[https://medium.com/@priyankkhanna2001/product-price-prediction-using-flipkart-data-934e227da5f8]
 ### Runing web interface
 1) If you already have a python env you can open the env in terminal and run the following commands
 - pip install -r requirements.txt
